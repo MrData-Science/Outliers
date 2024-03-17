@@ -5,8 +5,8 @@ En el notebook se realizaron las siguientes tareas:
 - Se imputaron los datos con sklearn SimpleImputer
 - Se modificaron los datos para que existieran valores extremos (outliers)
 - Posterirormente estos datos fueron tratados con tres tecnicas para estandarizar los datos
- - IQR
- - Zscore
- - Winsorization
+   - IQR
+   - Zscore
+   - Winsorization
 - Se observan las graficas de los datos antes de ser tratados
 - Se observan las graficas de los datos despues de cada metodo   
