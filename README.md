@@ -12,4 +12,4 @@ En el notebook se realizaron las siguientes tareas:
 - Se observan las graficas de los datos despues de cada metodo   
 
 
-[Enlace al Notebook](Outliers.ipynb)
+[Explora el análisis completo aqui](Outliers.ipynb)
