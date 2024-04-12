@@ -10,3 +10,6 @@ En el notebook se realizaron las siguientes tareas:
    - Winsorization
 - Se observan las graficas de los datos antes de ser tratados
 - Se observan las graficas de los datos despues de cada metodo   
+
+
+[Enlace al Notebook](Outliers.ipynb)
